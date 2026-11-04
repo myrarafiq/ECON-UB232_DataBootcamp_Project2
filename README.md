@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project was completed as part of our Data Science Bootcamp assignment. The goal was to build a regression model that predicts house sale prices using the Ames Housing dataset and submit our predictions to Kaggle.
+This project was completed as part of our Data Bootcamp's Project 2. The goal was to build a regression model that predicts house sale prices using the Ames Housing dataset and submit our predictions to Kaggle.
 
 We experimented with different regression models and approaches during development, including linear models, tree-based models, and Support Vector Regression. Based on our Kaggle experiments, SVR was one of our strongest approaches, so we decided to focus on it for our final notebook.
 
